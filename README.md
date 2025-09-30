@@ -1,4 +1,4 @@
-# Local Projections and VAR (Time Series statistics) Approach to Macroeconomic Impact of Droughts in Uruguay
+# Local Projections and VAR (Time Series) Approach to Macroeconomic Impact of Droughts in Uruguay
 
 This project replicates and extends the analysis of **Clevy & Evans (2025)** on the macroeconomic effects of droughts in Uruguay:contentReference[oaicite:0]{index=0}.  
 We use quarterly data (2005–2023) to study how climate shocks, captured by the **Soil Moisture Deficit Index (SMDI)**, affect output, consumption, investment, exchange rates, and employment.  
